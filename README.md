@@ -32,5 +32,6 @@ sing-box rule-set convert filter.txt --type adguard --output filter.srs
 
 
 下载地址:
-* [AdGuard[dns解析]](https://github.com/xiumu590-droid/sing-box-AdGuard-/raw/refs/heads/main/filter.srs)
+* [AdGuard[sing-box文档]](https://sing-box.sagernet.org/zh/configuration/rule-set/adguard/
+)
 
