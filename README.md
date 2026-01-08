@@ -20,7 +20,7 @@ sing-box rule-set convert filter.txt --type adguard --output filter.srs
 ```
 
 
-下载地址:
+文档:
 * [AdGuard[sing-box文档]](https://sing-box.sagernet.org/zh/configuration/rule-set/adguard/
 )
 
