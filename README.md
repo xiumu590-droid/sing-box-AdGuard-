@@ -8,17 +8,6 @@ DNS解析器
 sing-box rule-set convert filter.txt --type adguard --output filter.srs
 ```
 
-
-路由规则:
-```
-{
-    "rule_set": "AdGuard[dns解析]",
-    "action": "reject",
-    "method": "default",
-    "no_drop": false
-},
-```
-
 规则集:
 ```
 {
