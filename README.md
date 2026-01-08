@@ -19,9 +19,18 @@ sing-box rule-set convert filter.txt --type adguard --output filter.srs
 },
 ```
 
+规则集:
+```
+{
+    "type": "remote",
+    "tag": "AdGuard[dns解析]",
+    "format": "binary",
+    "url": "https://github.com/xiumu590-droid/sing-box-AdGuard-/raw/refs/heads/main/filter.srs",
+    "update_interval": "12h0m0s"
+},
+```
+
+
 下载地址:
 * [AdGuard[dns解析]](https://github.com/xiumu590-droid/sing-box-AdGuard-/raw/refs/heads/main/filter.srs)
 
-```
-https://github.com/xiumu590-droid/sing-box-AdGuard-/raw/refs/heads/main/filter.srs
-```
