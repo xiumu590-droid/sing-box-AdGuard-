@@ -3,7 +3,7 @@
 ! Description: 过滤器由其他几个过滤器（AdGuard Base 过滤器、社交媒体过滤器、跟踪保护过滤器、移动广告过滤器、EasyList、EasyPrivacy 等）组成，并经过专门简化，以更好地兼容 DNS 级别的广告拦截.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-01-12T11:44:17.606Z
+! Last modified: 2026-01-12T11:46:30.667Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
