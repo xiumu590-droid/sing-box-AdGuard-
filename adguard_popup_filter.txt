@@ -3,7 +3,7 @@
 ! Description: 过滤器包括在新窗口中打开的网站的规则，由 AdGuard、EasyList、ABPindo 过滤器组成，并改进了与 DNS 级弹出窗口阻止的兼容性.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2026-01-11T14:33:39.266Z
+! Last modified: 2026-01-12T11:44:40.390Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
