@@ -38549,6 +38549,7 @@
 ||api.sdk.zadn.vn^
 ||api.sdkbox.com^
 ||api.sec.intl.miui.com^
+||api.sec.miui.com^
 ||api.secondstreetapp.com^
 ||api.segment.io^
 ||api.sentiance.com^
