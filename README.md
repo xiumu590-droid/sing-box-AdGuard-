@@ -5,7 +5,7 @@ sing-box [AdGuard]
 DNS解析器
 文本转二进制:
 ```
-sing-box rule-set convert filter.txt --type adguard --output filter.srs
+sing-box rule-set convert 文件名.txt --type adguard --output 文件名.srs
 ```
 
 规则集:
@@ -14,7 +14,7 @@ sing-box rule-set convert filter.txt --type adguard --output filter.srs
     "type": "remote",
     "tag": "AdGuard[dns解析]",
     "format": "binary",
-    "url": "https://github.com/xiumu590-droid/sing-box-AdGuard-/raw/refs/heads/main/filter.srs",
+    "url": "https://github.com/xiumu590-droid/sing-box-AdGuard-/raw/refs/heads/main/另类.srs",
     "update_interval": "12h0m0s"
 },
 ```
