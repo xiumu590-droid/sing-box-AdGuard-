@@ -82025,6 +82025,10 @@
 ||jupiter.appads.com^
 ||jupiter.bravenet.com^
 ||jupiter.cometsystems.com^
+||jupiter.india.sys.miui.com^
+||jupiter.intl.sys.miui.com^
+||jupiter.rus.sys.miui.com^
+||jupiter.sys.miui.com^
 ||jupiter.us.intellitxt.com^
 ||jupiter1.appads.com^
 ||jupiter2.appads.com^
@@ -105019,6 +105023,10 @@
 ||prevalue.pl^
 ||prevent-asian-flu.com^
 ||preview-api.installer.xiaomi.com^
+||preview-jupiter.india.sys.miui.com^
+||preview-jupiter.intl.sys.miui.com^
+||preview-jupiter.rus.sys.miui.com^
+||preview-jupiter.sys.miui.com^
 ||preview.adform.com^
 ||preview.ads.justpremium.com^
 ||preview.ads.zalo.me^
@@ -109839,6 +109847,7 @@
 ||rollpepair.click^
 ||rollskins.top^
 ||rolluphurt.com.pl^
+||rom.pt.miui.srv^
 ||romad.com.pl^
 ||romal.byseniscon.top^
 ||romanticfm.2cnt.net^
