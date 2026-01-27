@@ -1,0 +1,32 @@
+{
+    "version": 3,
+    "rules": [
+        {
+            "domain_suffix": [
+                "p2p.huya.com",
+                "p2pchunk-hw.douyucdn.cn",
+                "p2pchunk-table.douyucdn.cn",
+                "p2plive-ali.douyucdn.cn",
+                "dyp2p-ali.douyucdn.cn",
+                "dyp2p-hw.douyucdn.cn",
+                "pcdn.yximgs.com",
+                "p2p.qq.com",
+                "p2ptun.qq.com",
+                "stun.douyucdn.cn",
+                "stun.hitv.com",
+                "stun1.douyucdn.cn",
+                "tracker.xiaomixiaoai.com",
+                "p2pupdate.gamedl.qq.com",
+                "p2pupgrade.gamedl.qq.com"
+            ]
+        },
+        {
+            "domain_keyword": [
+                "p2p",
+                "pcdn",
+                "tracker",
+                "stun"
+            ]
+        }
+    ]
+}
